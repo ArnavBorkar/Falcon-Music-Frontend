@@ -649,7 +649,7 @@ function playSongOnClick(track_index_name){
         currentList = playlist_List[0].customList;
 
         loadTrack(track_index);
-        playPauseTrack();
+        playTrack();
     
 
 }
