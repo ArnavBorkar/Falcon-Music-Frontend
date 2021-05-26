@@ -3,7 +3,7 @@
 # DevSocHackathon - Falcon Music
 
 ## About
-Falcon Music is a music player like Spotify and Amazon music
+Falcon Music is a music player like Spotify and Amazon music.
 
 ## Table of Contents
 - [Quick Start :boom:](#quick-start)
