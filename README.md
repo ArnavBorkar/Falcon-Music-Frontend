@@ -3,7 +3,7 @@
 # DevSocHackathon - Falcon Music
 
 ## About
-Falcon Music is a music player like Spotify and Amazon music.
+Falcon Music is an online music player web app.
 
 ## Table of Contents
 - [Quick Start :boom:](#quick-start)
@@ -53,12 +53,13 @@ $ cd DevSocHackathon
 3. One pull request should cater to only one change. *A change may include multiple file changes that are essential to solving the issue/change.
 
 ## How to use?
-Open the website on your mobile or laptop. The all songs tab consists of all the songs in our library that a user can access and play. The search option can be used to search for a particular song and play it. You can even create your own playlist by clicking on the plus sign beside create new playlist and add songs to the playlist. After creating the playlist, click on a song you want and choose add to playlist to add it to the playlist.
+Open the website on your mobile or laptop. The all songs tab consists of all the songs in our library that a user can access and play. The search option can be used to search for a particular song and play it. You can even create your own playlists (upto 6) by clicking on the add button besides create new playlist and add songs to the playlist. After creating the playlist, choose the playlist you want to add the current playing song to and press the plus button besides it.
 
 ## Current Implementations
-1. Frontend of the whole project is done using HTML and CSS.
-2. A server has been created that hosts the website.
-3. Firebase database has been used to store song data and the songs have been stored on firebase's cloud service.
+1. Frontend of the whole project is done using HTML and CSS and JS.
+2. A server has been created that using Express and NodeJS that hosts the website.
+3. Firebase has been used to store song data and the songs have been stored on firebase's storage service.
+4. No APIs have been used to create this music player.
 
 ## Future Implementations
 1. User Authentication and creation of accouts for differents users.
@@ -68,9 +69,9 @@ Open the website on your mobile or laptop. The all songs tab consists of all the
 5. Create more routes for increasing efficiency of the website.
 6. 
 ## Individual Contribution
-**Arnav Borkar** - Server side implementation and playlist functionality.<br />
-**Rishi Roy** - Frontend and database creation and handling.<br />
-**Varun Gopal** - Search function , ReadMe <br />
+**Arnav Borkar** - UI/UX and CSS, all functionalitis/JS of site (including playlist and now playing), hosting backend on NodeJS with ExpressJS <br />
+**Rishi Roy** - Website Styling Implementation (CSS), creation and handlig of cloud storage.<br />
+**Varun Gopal** - Implementing search function and its CSS, ReadMe <br />
 
 
 ### Social Media
