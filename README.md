@@ -70,7 +70,7 @@ Open the website on your mobile or laptop. The all songs tab consists of all the
 6. 
 ## Individual Contribution
 **Arnav Borkar** - UI/UX and CSS, all functionalitis/JS of site (including playlist and now playing), hosting backend on NodeJS with ExpressJS <br />
-**Rishi Roy** - Website Styling Implementation (CSS), creation and handlig of cloud storage.<br />
+**Rishi Roy** - Website Styling Implementation (CSS), creation and handling of cloud storage.<br />
 **Varun Gopal** - Implementing search function and its CSS, ReadMe <br />
 
 
