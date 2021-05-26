@@ -69,7 +69,7 @@ Open the website on your mobile or laptop. The all songs tab consists of all the
 6. 
 ## Individual Contribution
 **Arnav Borkar** - Server side implementation and playlist functionality.<br />
-** Rishi Roy** - Frontend and database creation and handling.<br />
+**Rishi Roy** - Frontend and database creation and handling.<br />
 **Varun Gopal** - Search function , ReadMe <br />
 
 
