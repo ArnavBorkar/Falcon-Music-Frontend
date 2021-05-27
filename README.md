@@ -67,7 +67,6 @@ $ git clone https://github.com/ArnavBorkar/Falcon-Music-Frontend.git
 5. The site is entirely responsive and has a interface on mobiles and tabs as good as on PCs if not better.
 
 
-
 ## Future Implementations
 1. User Authentication and creation of accouts for differents users.
 2. Use other available APIs like spotify's to access song data and show it the user.
