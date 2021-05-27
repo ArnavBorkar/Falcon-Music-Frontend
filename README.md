@@ -32,10 +32,7 @@ Follow these steps to install this project directory:
 
 ```
 # clone the repo
-$ git clone https://github.com/Aviral09/DevSocHackathon.git
-
-# go into app's directory:
-$ cd DevSocHackathon
+$ git clone https://github.com/ArnavBorkar/Falcon-Music-Frontend.git
 
 ```
 
@@ -53,13 +50,23 @@ $ cd DevSocHackathon
 3. One pull request should cater to only one change. *A change may include multiple file changes that are essential to solving the issue/change.
 
 ## How to use?
-Open the website on your mobile or laptop. The all songs tab consists of all the songs in our library that a user can access and play. The search option can be used to search for a particular song and play it. You can even create your own playlists (upto 6) by clicking on the add button besides create new playlist and add songs to the playlist. After creating the playlist, choose the playlist you want to add the current playing song to and press the plus button besides it.
+1.Open the website on your mobile or laptop. 
+2.The all songs tab consists of all the songs in our library that a user can access and play. 
+3.The search option can be used to search for a particular song and play it. 
+4.You can even create your own playlists (upto 6) by clicking on the add button besides create new playlist and add songs to the playlist. 
+5.After creating the playlist, choose the playlist you want to add the current playing song to and press the plus button besides it.
+6.Users can also add songs to a special liked songs playlist by clicking on heart button at top right of the song cover.
+7.The last song of the playlist can be removed from that playlist by using Trash button at the bottom of that playlist.
+8.After the current song is finished, the next song will be automatically played.
 
 ## Current Implementations
 1. Frontend of the whole project is done using HTML and CSS and JS.
 2. A server has been created that using Express and NodeJS that hosts the website.
 3. Firebase has been used to store song data and the songs have been stored on firebase's storage service.
 4. No APIs have been used to create this music player.
+5. The site is entirely responsive and has a interface on mobiles and tabs as good as on PCs if not better.
+
+
 
 ## Future Implementations
 1. User Authentication and creation of accouts for differents users.
@@ -67,7 +74,7 @@ Open the website on your mobile or laptop. The all songs tab consists of all the
 3. A backend that stores the user's data so that the user doesn't lose data when he/she closes it.
 4. Create a better interface.
 5. Create more routes for increasing efficiency of the website.
-6. 
+
 ## Individual Contribution
 **Arnav Borkar** - UI/UX and CSS, all functionalitis/JS of site (including playlist and now playing), hosting backend on NodeJS with ExpressJS <br />
 **Rishi Roy** - Website Styling Implementation (CSS), creation and handling of cloud storage.<br />
